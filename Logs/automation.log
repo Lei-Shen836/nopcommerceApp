@@ -1,0 +1,633 @@
+2025-03-11 13:20:46,885 - root - INFO - ******************* Test_001_Login *******************
+2025-03-11 13:20:46,885 - root - INFO - ******************* Verify Home Page Title *******************
+2025-03-11 13:20:48,354 - root - INFO - ******************* Home Page Title test is passed *******************
+2025-03-11 13:20:49,643 - root - INFO - ******************* Verify Login test *******************
+2025-03-11 13:21:17,194 - root - ERROR - ******************* Login test is failed *******************
+2025-03-11 15:41:31,277 - root - INFO - ******************* Test_001_Login *******************
+2025-03-11 15:41:31,278 - root - INFO - ******************* Verify Home Page Title *******************
+2025-03-11 15:41:32,276 - root - INFO - ******************* Home Page Title test is passed *******************
+2025-03-11 15:41:33,592 - root - INFO - ******************* Verify Login test *******************
+2025-03-11 15:42:00,275 - root - ERROR - ******************* Login test is failed *******************
+2025-03-11 15:43:29,806 - root - INFO - ******************* Test_001_Login *******************
+2025-03-11 15:43:29,806 - root - INFO - ******************* Verify Home Page Title *******************
+2025-03-11 15:43:31,668 - root - INFO - ******************* Home Page Title test is passed *******************
+2025-03-11 15:44:57,849 - root - INFO - ******************* Test_001_Login *******************
+2025-03-11 15:44:57,849 - root - INFO - ******************* Verify Home Page Title *******************
+2025-03-11 15:45:00,086 - root - INFO - ******************* Home Page Title test is passed *******************
+2025-03-11 15:45:04,802 - root - INFO - ******************* Verify Login test *******************
+2025-03-11 15:45:32,606 - root - INFO - ******************* Login test is passed *******************
+2025-03-11 15:49:19,323 - root - INFO - ******************* Test_001_Login *******************
+2025-03-11 15:49:19,324 - root - INFO - ******************* Verify Home Page Title *******************
+2025-03-11 15:50:50,734 - root - INFO - ******************* Test_001_Login *******************
+2025-03-11 15:50:50,734 - root - INFO - ******************* Verify Home Page Title *******************
+2025-03-11 15:50:52,347 - root - INFO - ******************* Home Page Title test is passed *******************
+2025-03-11 15:50:53,633 - root - INFO - ******************* Verify Login test *******************
+2025-03-11 15:51:20,411 - root - ERROR - ******************* Login test is failed *******************
+2025-03-11 15:51:44,108 - root - INFO - ******************* Test_001_Login *******************
+2025-03-11 15:51:44,108 - root - INFO - ******************* Verify Home Page Title *******************
+2025-03-11 15:53:16,248 - root - INFO - ******************* Test_001_Login *******************
+2025-03-11 15:53:16,248 - root - INFO - ******************* Verify Home Page Title *******************
+2025-03-12 11:39:21,295 - root - INFO - ******************* Test_001_Login *******************
+2025-03-12 11:39:21,297 - root - INFO - ******************* Verify Home Page Title *******************
+2025-03-12 11:39:22,353 - root - INFO - ******************* Home Page Title test is passed *******************
+2025-03-12 11:39:23,610 - root - INFO - ******************* Verify Login test *******************
+2025-03-12 11:39:50,701 - root - ERROR - ******************* Login test is failed *******************
+2025-03-12 12:16:44,052 - root - INFO - ******************* Test_001_Login *******************
+2025-03-12 12:16:44,053 - root - INFO - ******************* Verify Home Page Title *******************
+2025-03-12 12:16:44,054 - root - INFO - ******************* Verify Login test *******************
+2025-03-12 12:16:46,358 - root - INFO - ******************* Home Page Title test is passed *******************
+2025-03-12 12:17:11,959 - root - ERROR - ******************* Login test is failed *******************
+2025-03-12 13:12:50,442 - root - INFO - ******************* Verify Login test *******************
+2025-03-12 13:12:50,608 - root - INFO - ******************* Test_001_Login *******************
+2025-03-12 13:12:50,608 - root - INFO - ******************* Verify Home Page Title *******************
+2025-03-12 13:12:51,766 - root - INFO - ******************* Home Page Title test is passed *******************
+2025-03-12 13:13:17,560 - root - ERROR - ******************* Login test is failed *******************
+2025-03-12 13:21:21,230 - root - INFO - ******************* Verify Login test *******************
+2025-03-12 13:21:21,230 - root - INFO - ******************* Test_001_Login *******************
+2025-03-12 13:21:21,230 - root - INFO - ******************* Verify Home Page Title *******************
+2025-03-12 13:21:22,248 - root - INFO - ******************* Home Page Title test is passed *******************
+2025-03-12 13:21:47,832 - root - ERROR - ******************* Login test is failed *******************
+2025-03-12 13:22:13,823 - root - INFO - ******************* Test_001_Login *******************
+2025-03-12 13:22:13,824 - root - INFO - ******************* Verify Home Page Title *******************
+2025-03-12 13:22:13,904 - root - INFO - ******************* Verify Login test *******************
+2025-03-12 13:22:15,067 - root - INFO - ******************* Home Page Title test is passed *******************
+2025-03-12 13:22:20,687 - root - ERROR - ******************* Login test is failed *******************
+2025-03-12 13:28:33,965 - root - INFO - ******************* Verify Login test *******************
+2025-03-12 13:28:33,965 - root - INFO - ******************* Test_001_Login *******************
+2025-03-12 13:28:33,965 - root - INFO - ******************* Verify Home Page Title *******************
+2025-03-12 13:28:34,960 - root - INFO - ******************* Home Page Title test is passed *******************
+2025-03-12 13:28:40,554 - root - ERROR - ******************* Login test is failed *******************
+2025-03-12 13:34:23,348 - root - INFO - ******************* Verify Login test *******************
+2025-03-12 13:34:23,348 - root - INFO - ******************* Test_001_Login *******************
+2025-03-12 13:34:23,348 - root - INFO - ******************* Verify Home Page Title *******************
+2025-03-12 13:34:24,694 - root - INFO - ******************* Home Page Title test is passed *******************
+2025-03-12 13:34:30,309 - root - ERROR - ******************* Login test is failed *******************
+2025-03-12 13:36:05,593 - root - INFO - ******************* Test_001_Login *******************
+2025-03-12 13:36:05,593 - root - INFO - ******************* Verify Home Page Title *******************
+2025-03-12 13:36:05,593 - root - INFO - ******************* Verify Login test *******************
+2025-03-12 13:36:06,729 - root - INFO - ******************* Home Page Title test is passed *******************
+2025-03-12 13:36:12,311 - root - ERROR - ******************* Login test is failed *******************
+2025-03-12 14:03:57,390 - root - INFO - ******************* Verify Login test *******************
+2025-03-12 14:03:57,499 - root - INFO - ******************* Test_001_Login *******************
+2025-03-12 14:03:57,499 - root - INFO - ******************* Verify Home Page Title *******************
+2025-03-12 14:03:58,739 - root - INFO - ******************* Home Page Title test is passed *******************
+2025-03-12 14:04:04,822 - root - INFO - ******************* Login test is passed *******************
+2025-03-12 14:10:57,902 - root - INFO - ******************* Test_001_Login *******************
+2025-03-12 14:10:57,903 - root - INFO - ******************* Verify Home Page Title *******************
+2025-03-12 14:10:57,916 - root - INFO - ******************* Verify Login test *******************
+2025-03-12 14:10:59,008 - root - INFO - ******************* Home Page Title test is passed *******************
+2025-03-12 14:11:04,556 - root - ERROR - ******************* Login test is failed *******************
+2025-03-12 14:15:26,828 - root - INFO - ******************* Test_001_Login *******************
+2025-03-12 14:15:26,828 - root - INFO - ******************* Verify Home Page Title *******************
+2025-03-12 14:15:27,946 - root - INFO - ******************* Verify Login test *******************
+2025-03-12 14:15:28,057 - root - INFO - ******************* Home Page Title test is passed *******************
+2025-03-12 14:15:34,390 - root - ERROR - ******************* Login test is failed *******************
+2025-03-12 14:16:49,003 - root - INFO - ******************* Verify Login test *******************
+2025-03-12 14:16:49,003 - root - INFO - ******************* Test_001_Login *******************
+2025-03-12 14:16:49,003 - root - INFO - ******************* Verify Home Page Title *******************
+2025-03-12 14:16:50,170 - root - INFO - ******************* Home Page Title test is passed *******************
+2025-03-12 14:16:56,224 - root - INFO - ******************* Login test is passed *******************
+2025-03-12 14:18:35,995 - root - INFO - ******************* Test_001_Login *******************
+2025-03-12 14:18:35,995 - root - INFO - ******************* Verify Home Page Title *******************
+2025-03-12 14:18:35,999 - root - INFO - ******************* Verify Login test *******************
+2025-03-12 14:18:38,061 - root - INFO - ******************* Home Page Title test is passed *******************
+2025-03-12 14:18:43,913 - root - ERROR - ******************* Login test is failed *******************
+2025-03-12 14:22:26,272 - root - INFO - ******************* Verify Login test *******************
+2025-03-12 14:22:26,274 - root - INFO - ******************* Test_001_Login *******************
+2025-03-12 14:22:26,274 - root - INFO - ******************* Verify Home Page Title *******************
+2025-03-12 14:22:27,941 - root - INFO - ******************* Home Page Title test is passed *******************
+2025-03-12 14:22:33,437 - root - ERROR - ******************* Login test is failed *******************
+2025-03-12 14:27:47,903 - root - INFO - ******************* Verify Login test *******************
+2025-03-12 14:27:47,921 - root - INFO - ******************* Test_001_Login *******************
+2025-03-12 14:27:47,921 - root - INFO - ******************* Verify Home Page Title *******************
+2025-03-12 14:27:49,213 - root - INFO - ******************* Home Page Title test is passed *******************
+2025-03-12 14:27:54,718 - root - ERROR - ******************* Login test is failed *******************
+2025-03-12 14:28:54,298 - root - INFO - ******************* Test_001_Login *******************
+2025-03-12 14:28:54,299 - root - INFO - ******************* Verify Home Page Title *******************
+2025-03-12 14:28:54,307 - root - INFO - ******************* Verify Login test *******************
+2025-03-12 14:28:55,714 - root - INFO - ******************* Home Page Title test is passed *******************
+2025-03-12 14:29:01,654 - root - ERROR - ******************* Login test is failed *******************
+2025-03-12 14:30:16,809 - root - INFO - ******************* Test_001_Login *******************
+2025-03-12 14:30:16,809 - root - INFO - ******************* Verify Home Page Title *******************
+2025-03-12 14:30:16,851 - root - INFO - ******************* Verify Login test *******************
+2025-03-12 14:30:18,914 - root - INFO - ******************* Home Page Title test is passed *******************
+2025-03-12 14:31:54,133 - root - INFO - ******************* Test_001_Login *******************
+2025-03-12 14:31:54,133 - root - INFO - ******************* Verify Home Page Title *******************
+2025-03-12 14:31:54,133 - root - INFO - ******************* Verify Login test *******************
+2025-03-12 14:31:55,282 - root - INFO - ******************* Home Page Title test is passed *******************
+2025-03-12 14:32:00,853 - root - ERROR - ******************* Login test is failed *******************
+2025-03-12 20:48:16,210 - root - INFO - ******************* Test_002_DDT_Login *******************
+2025-03-12 20:48:16,210 - root - INFO - ******************* Verify Login DDT test *******************
+2025-03-12 20:48:22,541 - root - INFO - ***** Failed *****
+2025-03-12 20:48:22,541 - root - ERROR - ****** Login DDT test failed ******
+2025-03-12 20:51:50,182 - root - INFO - ******************* Test_002_DDT_Login *******************
+2025-03-12 20:51:50,182 - root - INFO - ******************* Verify Login DDT test *******************
+2025-03-12 20:51:57,750 - root - INFO - ***** Failed *****
+2025-03-12 20:52:02,948 - root - INFO - ***** Passed *****
+2025-03-12 20:52:08,142 - root - INFO - ***** Passed *****
+2025-03-12 20:52:13,375 - root - INFO - ***** Passed *****
+2025-03-12 20:52:13,375 - root - ERROR - ****** Login DDT test failed ******
+2025-03-12 20:55:56,091 - root - INFO - ******************* Test_002_DDT_Login *******************
+2025-03-12 20:55:56,092 - root - INFO - ******************* Verify Login DDT test *******************
+2025-03-12 20:56:02,455 - root - INFO - ***** Failed *****
+2025-03-12 20:56:07,680 - root - INFO - ***** Passed *****
+2025-03-12 20:56:12,891 - root - INFO - ***** Passed *****
+2025-03-12 20:56:18,070 - root - INFO - ***** Passed *****
+2025-03-12 20:56:18,070 - root - ERROR - ****** Login DDT test failed ******
+2025-03-12 20:57:34,191 - root - INFO - ******************* Test_002_DDT_Login *******************
+2025-03-12 20:57:34,191 - root - INFO - ******************* Verify Login DDT test *******************
+2025-03-12 20:57:42,433 - root - INFO - ***** Passed *****
+2025-03-12 21:01:52,218 - root - INFO - ******************* Test_002_DDT_Login *******************
+2025-03-12 21:01:52,218 - root - INFO - ******************* Verify Login DDT test *******************
+2025-03-12 21:01:59,815 - root - INFO - ***** Passed *****
+2025-03-12 21:02:18,974 - root - INFO - ******************* Test_002_DDT_Login *******************
+2025-03-12 21:02:18,974 - root - INFO - ******************* Verify Login DDT test *******************
+2025-03-12 21:02:26,957 - root - INFO - ***** Passed *****
+2025-03-12 21:15:36,998 - root - INFO - ******************* Test_002_DDT_Login *******************
+2025-03-12 21:15:36,998 - root - INFO - ******************* Verify Login DDT test *******************
+2025-03-12 21:15:43,385 - root - INFO - ***** Passed *****
+2025-03-12 21:15:48,611 - root - INFO - ***** Passed *****
+2025-03-12 21:51:56,970 - root - INFO - ******************* Test_002_DDT_Login *******************
+2025-03-12 21:51:56,970 - root - INFO - ******************* Verify Login DDT test *******************
+2025-03-12 21:52:03,116 - root - INFO - ***** Passed *****
+2025-03-12 21:52:08,280 - root - INFO - ***** Passed *****
+2025-03-12 21:54:13,553 - root - INFO - ******************* Test_002_DDT_Login *******************
+2025-03-12 21:54:13,553 - root - INFO - ******************* Verify Login DDT test *******************
+2025-03-12 21:54:20,443 - root - INFO - ***** Failed *****
+2025-03-13 12:08:11,713 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 12:08:12,976 - root - INFO - ************* Login succesful **********
+2025-03-13 12:08:12,976 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 12:08:39,341 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 12:08:40,702 - root - INFO - ************* Login succesful **********
+2025-03-13 12:08:40,702 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 12:15:18,139 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 12:15:19,601 - root - INFO - ************* Login succesful **********
+2025-03-13 12:15:19,601 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 12:16:21,419 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 12:16:23,747 - root - INFO - ************* Login succesful **********
+2025-03-13 12:16:23,747 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 12:19:04,278 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 12:19:07,523 - root - INFO - ************* Login succesful **********
+2025-03-13 12:19:07,523 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 12:21:36,101 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 12:21:37,601 - root - INFO - ************* Login succesful **********
+2025-03-13 12:21:37,601 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 12:23:37,741 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 12:23:39,513 - root - INFO - ************* Login succesful **********
+2025-03-13 12:23:39,513 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 13:24:26,211 - root - INFO - ************* Test_004_SearchCustomerByEmail **********
+2025-03-13 13:24:27,510 - root - INFO - ************* Login succesful **********
+2025-03-13 13:24:27,510 - root - INFO - ******* Starting Search Customer By Email **********
+2025-03-13 13:33:56,620 - root - INFO - ************* Test_005_SearchCustomerByName **********
+2025-03-13 13:33:59,000 - root - INFO - ************* Login succesful **********
+2025-03-13 13:33:59,000 - root - INFO - ******* Starting Search Customer By Name **********
+2025-03-13 15:14:53,682 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 15:14:53,682 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 15:14:53,682 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 15:14:53,682 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 15:14:53,682 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 15:14:54,985 - root - INFO - ************* Login succesful **********
+2025-03-13 15:14:54,985 - root - INFO - ************* Login succesful **********
+2025-03-13 15:14:54,985 - root - INFO - ************* Login succesful **********
+2025-03-13 15:14:54,985 - root - INFO - ************* Login succesful **********
+2025-03-13 15:14:54,985 - root - INFO - ************* Login succesful **********
+2025-03-13 15:14:54,985 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 15:14:54,985 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 15:14:54,985 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 15:14:54,985 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 15:14:54,985 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 15:14:56,590 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 15:14:56,590 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 15:14:56,590 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 15:14:56,590 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 15:14:56,590 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 15:15:03,282 - root - ERROR - ******************* Login test is failed *******************
+2025-03-13 15:15:03,282 - root - ERROR - ******************* Login test is failed *******************
+2025-03-13 15:15:03,282 - root - ERROR - ******************* Login test is failed *******************
+2025-03-13 15:15:03,282 - root - ERROR - ******************* Login test is failed *******************
+2025-03-13 15:15:03,282 - root - ERROR - ******************* Login test is failed *******************
+2025-03-13 16:04:58,970 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 16:04:58,970 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 16:04:58,970 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 16:04:58,970 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 16:04:58,970 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 16:05:00,435 - root - INFO - ************* Login succesful **********
+2025-03-13 16:05:00,435 - root - INFO - ************* Login succesful **********
+2025-03-13 16:05:00,435 - root - INFO - ************* Login succesful **********
+2025-03-13 16:05:00,435 - root - INFO - ************* Login succesful **********
+2025-03-13 16:05:00,435 - root - INFO - ************* Login succesful **********
+2025-03-13 16:05:00,436 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 16:05:00,436 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 16:05:00,436 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 16:05:00,436 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 16:05:00,436 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 16:05:02,072 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 16:05:02,072 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 16:05:02,072 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 16:05:02,072 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 16:05:02,072 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 16:05:08,781 - root - ERROR - ******************* Login test is failed *******************
+2025-03-13 16:05:08,781 - root - ERROR - ******************* Login test is failed *******************
+2025-03-13 16:05:08,781 - root - ERROR - ******************* Login test is failed *******************
+2025-03-13 16:05:08,781 - root - ERROR - ******************* Login test is failed *******************
+2025-03-13 16:05:08,781 - root - ERROR - ******************* Login test is failed *******************
+2025-03-13 16:13:54,757 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 16:13:54,757 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 16:13:54,757 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 16:13:54,757 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 16:13:54,757 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 16:13:56,945 - root - INFO - ************* Login succesful **********
+2025-03-13 16:13:56,945 - root - INFO - ************* Login succesful **********
+2025-03-13 16:13:56,945 - root - INFO - ************* Login succesful **********
+2025-03-13 16:13:56,945 - root - INFO - ************* Login succesful **********
+2025-03-13 16:13:56,945 - root - INFO - ************* Login succesful **********
+2025-03-13 16:13:56,945 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 16:13:56,945 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 16:13:56,945 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 16:13:56,945 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 16:13:56,945 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 16:13:58,319 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 16:13:58,319 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 16:13:58,319 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 16:13:58,319 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 16:13:58,319 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 16:14:04,851 - root - ERROR - ******************* Login test is failed *******************
+2025-03-13 16:14:04,851 - root - ERROR - ******************* Login test is failed *******************
+2025-03-13 16:14:04,851 - root - ERROR - ******************* Login test is failed *******************
+2025-03-13 16:14:04,851 - root - ERROR - ******************* Login test is failed *******************
+2025-03-13 16:14:04,851 - root - ERROR - ******************* Login test is failed *******************
+2025-03-13 22:34:15,303 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 22:34:15,303 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 22:34:15,303 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 22:34:15,303 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 22:34:15,303 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 22:34:17,042 - root - INFO - ************* Login succesful **********
+2025-03-13 22:34:17,042 - root - INFO - ************* Login succesful **********
+2025-03-13 22:34:17,042 - root - INFO - ************* Login succesful **********
+2025-03-13 22:34:17,042 - root - INFO - ************* Login succesful **********
+2025-03-13 22:34:17,042 - root - INFO - ************* Login succesful **********
+2025-03-13 22:34:17,042 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 22:34:17,042 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 22:34:17,042 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 22:34:17,042 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 22:34:17,042 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 22:34:19,122 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 22:34:19,122 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 22:34:19,122 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 22:34:19,122 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 22:34:19,122 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 22:34:28,124 - root - INFO - ******************* Login test is passed *******************
+2025-03-13 22:34:28,124 - root - INFO - ******************* Login test is passed *******************
+2025-03-13 22:34:28,124 - root - INFO - ******************* Login test is passed *******************
+2025-03-13 22:34:28,124 - root - INFO - ******************* Login test is passed *******************
+2025-03-13 22:34:28,124 - root - INFO - ******************* Login test is passed *******************
+2025-03-13 22:35:09,015 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 22:35:09,015 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 22:35:09,015 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 22:35:09,015 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 22:35:09,015 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 22:35:10,570 - root - INFO - ************* Login succesful **********
+2025-03-13 22:35:10,570 - root - INFO - ************* Login succesful **********
+2025-03-13 22:35:10,570 - root - INFO - ************* Login succesful **********
+2025-03-13 22:35:10,570 - root - INFO - ************* Login succesful **********
+2025-03-13 22:35:10,570 - root - INFO - ************* Login succesful **********
+2025-03-13 22:35:10,570 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 22:35:10,570 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 22:35:10,570 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 22:35:10,570 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 22:35:10,570 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 22:35:11,954 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 22:35:11,954 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 22:35:11,954 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 22:35:11,954 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 22:35:11,954 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 22:35:18,590 - root - ERROR - ******************* Login test is failed *******************
+2025-03-13 22:35:18,590 - root - ERROR - ******************* Login test is failed *******************
+2025-03-13 22:35:18,590 - root - ERROR - ******************* Login test is failed *******************
+2025-03-13 22:35:18,590 - root - ERROR - ******************* Login test is failed *******************
+2025-03-13 22:35:18,590 - root - ERROR - ******************* Login test is failed *******************
+2025-03-13 22:36:07,594 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 22:36:07,594 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 22:36:07,594 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 22:36:07,594 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 22:36:07,594 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-13 22:36:10,683 - root - INFO - ************* Login succesful **********
+2025-03-13 22:36:10,683 - root - INFO - ************* Login succesful **********
+2025-03-13 22:36:10,683 - root - INFO - ************* Login succesful **********
+2025-03-13 22:36:10,683 - root - INFO - ************* Login succesful **********
+2025-03-13 22:36:10,683 - root - INFO - ************* Login succesful **********
+2025-03-13 22:36:10,683 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 22:36:10,683 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 22:36:10,683 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 22:36:10,683 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 22:36:10,683 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-13 22:36:12,034 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 22:36:12,034 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 22:36:12,034 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 22:36:12,034 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 22:36:12,034 - root - INFO - ******************* Verify Login test *******************
+2025-03-13 22:36:18,101 - root - INFO - ******************* Login test is passed *******************
+2025-03-13 22:36:18,101 - root - INFO - ******************* Login test is passed *******************
+2025-03-13 22:36:18,101 - root - INFO - ******************* Login test is passed *******************
+2025-03-13 22:36:18,101 - root - INFO - ******************* Login test is passed *******************
+2025-03-13 22:36:18,101 - root - INFO - ******************* Login test is passed *******************
+2025-03-14 11:09:38,522 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:09:38,522 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:09:38,522 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:09:38,522 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:09:38,522 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:09:39,826 - root - INFO - ************* Login succesful **********
+2025-03-14 11:09:39,826 - root - INFO - ************* Login succesful **********
+2025-03-14 11:09:39,826 - root - INFO - ************* Login succesful **********
+2025-03-14 11:09:39,826 - root - INFO - ************* Login succesful **********
+2025-03-14 11:09:39,826 - root - INFO - ************* Login succesful **********
+2025-03-14 11:09:39,826 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:09:39,826 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:09:39,826 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:09:39,826 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:09:39,826 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:09:41,480 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:09:41,480 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:09:41,480 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:09:41,480 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:09:41,480 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:09:48,212 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:09:48,212 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:09:48,212 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:09:48,212 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:09:48,212 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:10:55,421 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:10:55,421 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:10:55,421 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:10:55,421 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:10:55,421 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:10:57,184 - root - INFO - ************* Login succesful **********
+2025-03-14 11:10:57,184 - root - INFO - ************* Login succesful **********
+2025-03-14 11:10:57,184 - root - INFO - ************* Login succesful **********
+2025-03-14 11:10:57,184 - root - INFO - ************* Login succesful **********
+2025-03-14 11:10:57,184 - root - INFO - ************* Login succesful **********
+2025-03-14 11:10:57,184 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:10:57,184 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:10:57,184 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:10:57,184 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:10:57,184 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:10:58,927 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:10:58,927 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:10:58,927 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:10:58,927 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:10:58,927 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:11:05,623 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:11:05,623 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:11:05,623 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:11:05,623 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:11:05,623 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:13:19,760 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:13:19,760 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:13:19,760 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:13:19,760 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:13:19,760 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:13:21,520 - root - INFO - ************* Login succesful **********
+2025-03-14 11:13:21,520 - root - INFO - ************* Login succesful **********
+2025-03-14 11:13:21,520 - root - INFO - ************* Login succesful **********
+2025-03-14 11:13:21,520 - root - INFO - ************* Login succesful **********
+2025-03-14 11:13:21,520 - root - INFO - ************* Login succesful **********
+2025-03-14 11:13:21,520 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:13:21,520 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:13:21,520 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:13:21,520 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:13:21,520 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:13:23,057 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:13:23,057 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:13:23,057 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:13:23,057 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:13:23,057 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:13:29,486 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:13:29,486 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:13:29,486 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:13:29,486 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:13:29,486 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:16:48,097 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:16:48,097 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:16:48,097 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:16:48,097 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:16:48,097 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:16:50,110 - root - INFO - ************* Login succesful **********
+2025-03-14 11:16:50,110 - root - INFO - ************* Login succesful **********
+2025-03-14 11:16:50,110 - root - INFO - ************* Login succesful **********
+2025-03-14 11:16:50,110 - root - INFO - ************* Login succesful **********
+2025-03-14 11:16:50,110 - root - INFO - ************* Login succesful **********
+2025-03-14 11:16:50,110 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:16:50,110 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:16:50,110 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:16:50,110 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:16:50,110 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:16:51,885 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:16:51,885 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:16:51,885 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:16:51,885 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:16:51,885 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:16:59,785 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:16:59,785 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:16:59,785 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:16:59,785 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:16:59,785 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:17:18,220 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:17:18,220 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:17:18,220 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:17:18,220 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:17:18,220 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:17:19,697 - root - INFO - ************* Login succesful **********
+2025-03-14 11:17:19,697 - root - INFO - ************* Login succesful **********
+2025-03-14 11:17:19,697 - root - INFO - ************* Login succesful **********
+2025-03-14 11:17:19,697 - root - INFO - ************* Login succesful **********
+2025-03-14 11:17:19,697 - root - INFO - ************* Login succesful **********
+2025-03-14 11:17:19,697 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:17:19,697 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:17:19,697 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:17:19,697 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:17:19,697 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:17:21,216 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:17:21,216 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:17:21,216 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:17:21,216 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:17:21,216 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:17:27,595 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:17:27,595 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:17:27,595 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:17:27,595 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:17:27,595 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:17:42,697 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:17:42,697 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:17:42,697 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:17:42,697 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:17:42,697 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:17:44,146 - root - INFO - ************* Login succesful **********
+2025-03-14 11:17:44,146 - root - INFO - ************* Login succesful **********
+2025-03-14 11:17:44,146 - root - INFO - ************* Login succesful **********
+2025-03-14 11:17:44,146 - root - INFO - ************* Login succesful **********
+2025-03-14 11:17:44,146 - root - INFO - ************* Login succesful **********
+2025-03-14 11:17:44,147 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:17:44,147 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:17:44,147 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:17:44,147 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:17:44,147 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:17:45,735 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:17:45,735 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:17:45,735 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:17:45,735 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:17:45,735 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:17:53,095 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:17:53,095 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:17:53,095 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:17:53,095 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:17:53,095 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:19:14,653 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:19:14,653 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:19:14,653 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:19:14,653 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:19:14,653 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:19:17,568 - root - INFO - ************* Login succesful **********
+2025-03-14 11:19:17,568 - root - INFO - ************* Login succesful **********
+2025-03-14 11:19:17,568 - root - INFO - ************* Login succesful **********
+2025-03-14 11:19:17,568 - root - INFO - ************* Login succesful **********
+2025-03-14 11:19:17,568 - root - INFO - ************* Login succesful **********
+2025-03-14 11:19:17,568 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:19:17,568 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:19:17,568 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:19:17,568 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:19:17,568 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:19:18,924 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:19:18,924 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:19:18,924 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:19:18,924 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:19:18,924 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:19:25,893 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:19:25,893 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:19:25,893 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:19:25,893 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:19:25,893 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:29:37,926 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:29:37,926 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:29:37,926 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:29:37,926 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:29:37,926 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:29:39,524 - root - INFO - ************* Login succesful **********
+2025-03-14 11:29:39,524 - root - INFO - ************* Login succesful **********
+2025-03-14 11:29:39,524 - root - INFO - ************* Login succesful **********
+2025-03-14 11:29:39,524 - root - INFO - ************* Login succesful **********
+2025-03-14 11:29:39,524 - root - INFO - ************* Login succesful **********
+2025-03-14 11:29:39,524 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:29:39,524 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:29:39,524 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:29:39,524 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:29:39,524 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:29:41,152 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:29:41,152 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:29:41,152 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:29:41,152 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:29:41,152 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:29:47,932 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:29:47,932 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:29:47,932 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:29:47,932 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:29:47,932 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:37:28,273 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:37:28,273 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:37:28,273 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:37:28,273 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:37:28,273 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:37:30,038 - root - INFO - ************* Login succesful **********
+2025-03-14 11:37:30,038 - root - INFO - ************* Login succesful **********
+2025-03-14 11:37:30,038 - root - INFO - ************* Login succesful **********
+2025-03-14 11:37:30,038 - root - INFO - ************* Login succesful **********
+2025-03-14 11:37:30,038 - root - INFO - ************* Login succesful **********
+2025-03-14 11:37:30,038 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:37:30,038 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:37:30,038 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:37:30,038 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:37:30,038 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:37:31,616 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:37:31,616 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:37:31,616 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:37:31,616 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:37:31,616 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:37:38,598 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:37:38,598 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:37:38,598 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:37:38,598 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:37:38,598 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:37:48,278 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:37:48,278 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:37:48,278 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:37:48,278 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:37:48,278 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:37:49,874 - root - INFO - ************* Login succesful **********
+2025-03-14 11:37:49,874 - root - INFO - ************* Login succesful **********
+2025-03-14 11:37:49,874 - root - INFO - ************* Login succesful **********
+2025-03-14 11:37:49,874 - root - INFO - ************* Login succesful **********
+2025-03-14 11:37:49,874 - root - INFO - ************* Login succesful **********
+2025-03-14 11:37:49,874 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:37:49,874 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:37:49,874 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:37:49,874 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:37:49,874 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:37:54,763 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:37:54,763 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:37:54,763 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:37:54,763 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:37:54,763 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:38:02,024 - root - INFO - ******************* Login test is passed *******************
+2025-03-14 11:38:02,024 - root - INFO - ******************* Login test is passed *******************
+2025-03-14 11:38:02,024 - root - INFO - ******************* Login test is passed *******************
+2025-03-14 11:38:02,024 - root - INFO - ******************* Login test is passed *******************
+2025-03-14 11:38:02,024 - root - INFO - ******************* Login test is passed *******************
+2025-03-14 11:41:03,724 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:41:03,724 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:41:03,724 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:41:03,724 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:41:03,724 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:41:05,534 - root - INFO - ************* Login succesful **********
+2025-03-14 11:41:05,534 - root - INFO - ************* Login succesful **********
+2025-03-14 11:41:05,534 - root - INFO - ************* Login succesful **********
+2025-03-14 11:41:05,534 - root - INFO - ************* Login succesful **********
+2025-03-14 11:41:05,534 - root - INFO - ************* Login succesful **********
+2025-03-14 11:41:05,534 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:41:05,534 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:41:05,534 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:41:05,534 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:41:05,534 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:41:07,023 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:41:07,023 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:41:07,023 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:41:07,023 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:41:07,023 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:41:13,442 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:41:13,442 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:41:13,442 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:41:13,442 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:41:13,442 - root - ERROR - ******************* Login test is failed *******************
+2025-03-14 11:41:22,726 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:41:22,726 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:41:22,726 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:41:22,726 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:41:22,726 - root - INFO - ************* Test_003_AddCustomer **********
+2025-03-14 11:41:24,498 - root - INFO - ************* Login succesful **********
+2025-03-14 11:41:24,498 - root - INFO - ************* Login succesful **********
+2025-03-14 11:41:24,498 - root - INFO - ************* Login succesful **********
+2025-03-14 11:41:24,498 - root - INFO - ************* Login succesful **********
+2025-03-14 11:41:24,498 - root - INFO - ************* Login succesful **********
+2025-03-14 11:41:24,498 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:41:24,498 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:41:24,498 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:41:24,498 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:41:24,498 - root - INFO - ******* Starting Add Customer Test **********
+2025-03-14 11:41:29,466 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:41:29,466 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:41:29,466 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:41:29,466 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:41:29,466 - root - INFO - ******************* Verify Login test *******************
+2025-03-14 11:41:37,115 - root - INFO - ******************* Login test is passed *******************
+2025-03-14 11:41:37,115 - root - INFO - ******************* Login test is passed *******************
+2025-03-14 11:41:37,115 - root - INFO - ******************* Login test is passed *******************
+2025-03-14 11:41:37,115 - root - INFO - ******************* Login test is passed *******************
+2025-03-14 11:41:37,115 - root - INFO - ******************* Login test is passed *******************
